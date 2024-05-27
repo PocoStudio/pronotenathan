@@ -1,7 +1,7 @@
 {
     "name": "PronoteNathan",
     "short_name": "Pronote",
-    "start_url": "./pronote.html",
+    "start_url": "https://pocostudio.github.io/pronotenathan/pronote.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#2196F3",
