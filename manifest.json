@@ -2,7 +2,10 @@
     "name": "PronoteNathan",
     "short_name": "Pronote",
     "start_url": "https://pocostudio.github.io/pronotenathan/pronote.html",
+    "theme_color": "#000000",
+    "background_color": "#000000",
     "display": "standalone",
+    "orientation": "portrait",
     "icons": [
       {
         "src": "pronote.png",
